@@ -43,12 +43,18 @@ BookClub is a platform where book-lovers can learn about new books to read based
     * User will be able to view all pre-set profile information and book preferences.
     * User will be able to edit information.
 *  Favorites List
-    * User will be able to view all their favorited books   
+    * User will be able to view all their favorited books  
+    * User can unfavorite books from list
+    * Tapping on book will lead to its detail view.  
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Location Services
+    * Upon turning on location services, user will be able to view a map that displays book 'hotspots'. 
+         * Hotspots (per book) show shaded locations based on density of users who read a specific book.
+*  User will be able to follow others and view following and followers.
+*  User will be able to direct message other users.
+*  User can create and/or join Book-club messaging groups.
 
 ### 2. Screen Archetypes
 
