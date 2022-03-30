@@ -84,12 +84,14 @@ BookClub is a platform where book-lovers can learn about new books to read based
 ## Wireframes
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/Screen%20Shot%202022-03-29%20at%2010.32.15%20PM.png" width=600>
-
+<!--- <img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/Screen%20Shot%202022-03-29%20at%2010.32.15%20PM.png" width=600> --->
+<img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/figma_photo.png" width=600>
 
 ### [BONUS] Interactive Prototype
 
-<img src='https://github.com/Codepath-AAC/Bookclub-App/blob/main/walkthrough_BookClub1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!--- <img src='https://github.com/Codepath-AAC/Bookclub-App/blob/main/walkthrough_BookClub1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> --->
+<img src='https://github.com/Codepath-AAC/Bookclub-App/blob/main/figma_codepath_unit8-2022-03-29_23.40.24.gif' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
