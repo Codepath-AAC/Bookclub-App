@@ -72,12 +72,6 @@ BookClub is a platform where book-lovers can learn about new books to read based
 
 ### 3. Navigation
 
-**Tab Navigation** (Tab to Screen)
-
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
-
 **Flow Navigation** (Screen to Screen)
 
 * Login -> Homepage
@@ -88,10 +82,10 @@ BookClub is a platform where book-lovers can learn about new books to read based
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/Screen%20Shot%202022-03-29%20at%2010.32.15%20PM.png" width=600>
+
 
 ### [BONUS] Interactive Prototype
 
