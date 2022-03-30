@@ -15,11 +15,11 @@ BookClub is a platform where book-lovers can learn about new books to read based
 
 ### App Evaluation
 - **Category:** Books
-- **Mobile:** 
+- **Mobile:** For convenience, this app will be primarily for moblie devices such as phones and tablets. It is meant to be accessible whenever the user desires.
 - **Story:** This app displays a variety of books to users including different genres, recommendations, and trending books. Users can favorite books and view reviews and ratings from other users on each book. 
 - **Market:** This app is can be marketed to avid book-lovers who want an organized platform to learn about more books and keep track of books they like as well as potentially connect with other book-lovers. It can also be for those who want to get more into reading.
 - **Habit:** This app will be used as much as users would like to learn about more books and interact with others. It will ideally increase reading habits for those who desire it, but is not necessarily a habit-forming application. 
-- **Scope:**
+- **Scope:** In the beginning, the app will mostly be a way for readers to explore more reading options and track their own preferences as well as view others' opinions and express their own. Later, location services will be added for users to be able to see where certain books are read the most. Additionally more personal messaging features for readers to develop connections. 
 
 ## Product Spec
 
