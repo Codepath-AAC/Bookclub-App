@@ -85,7 +85,7 @@ BookClub is a platform where book-lovers can learn about new books to read based
 
 ### [BONUS] Digital Wireframes & Mockups
 <!--- <img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/Screen%20Shot%202022-03-29%20at%2010.32.15%20PM.png" width=600> --->
-<--- <img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/figma_photo.png" width=600> --->
+<!--- <img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/figma_photo.png" width=600> --->
 <img src="https://github.com/Codepath-AAC/Bookclub-App/blob/main/proper_figma_photo.png" width=600>
 ### [BONUS] Interactive Prototype
 
