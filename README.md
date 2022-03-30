@@ -95,6 +95,10 @@ BookClub is a platform where book-lovers can learn about new books to read based
 
 ### [BONUS] Interactive Prototype
 
+<img src='https://github.com/Codepath-AAC/Bookclub-App/blob/main/walkthrough_BookClub1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
