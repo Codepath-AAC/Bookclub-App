@@ -99,12 +99,16 @@ BookClub is a platform where book-lovers can learn about new books to read based
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
+User
 | Property  | Type | Description |
 | ------------- | ------------- | ------|
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  |
+| username  | String  | username of the user | 
+| name  | String  | name of the user |
+| password | String | password of the user (hidden field) |
+| profilePic | File | profile picture of the user |
+| favoriteGenre | String | user's favorite book genre |
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
