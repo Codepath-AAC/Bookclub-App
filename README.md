@@ -109,6 +109,15 @@ User
 | password | String | password of the user (hidden field) |
 | profilePic | File | profile picture of the user |
 | favoriteGenre | String | user's favorite book genre |
+
+Book
+| Property  | Type | Description |
+| ------------- | ------------- | ------|
+| bookname  | String  | name of the book | 
+| author | String | name of the author |
+| bookPic | File | book cover |
+| genre | String | genre of book |
+| rating | int | rating of the book |
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
