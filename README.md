@@ -120,11 +120,16 @@ Book
 | rating | int | rating of the book |
 ### Networking
 - Register Screen
-   - () 
+   - (Create) create a new user
 - Login Screen
+   - (GET) gets user information
 - Search Screen
+   - (GET) get information on a book when looked up
 - Main Screen
+   - (GET) get information on top and recomended books for the user
 - Book Screen
+   - (GET) get all info regarding the book
+   - (PUT) updates rating
 - Profile Screen
 - Favorites Screen
 - Messaging Screen
