@@ -120,7 +120,7 @@ Book
 | rating | int | rating of the book |
 ### Networking
 - Register Screen
-   - (Create) create a new user
+   - (POST) create a new user
 - Login Screen
    - (GET) gets user information
 - Search Screen
@@ -131,9 +131,27 @@ Book
    - (GET) get all info regarding the book
    - (PUT) updates rating
 - Profile Screen
+   - (GET) Query logged in user object
+   - (PUT) update user info
 - Favorites Screen
+   - (PUT) update the user's favorites list
 - Messaging Screen
+   - (GET) list of messages
 - Location Screen
+   - (GET) getting location data for all book readers
 - Blog Screen
+   - (POST) creating a blog post
+   - (POST) creating a like on a post
+   - (GET) reading other user's blog posts
+   - (UPDATE) updating blog post data
+   - (DELETE) deleting a blog post
 - Direct Messaging Screen
+   - (POST) creating a message
+   - (GET) getting messages
+   - (DELETE) deleting a message
 - Comments Screen
+   - (POST) creating a comment
+   - (POST) creating a like on a comment
+   - (GET) reading other user's comments
+   - (UPDATE) updating a comment
+   - (DELETE) deleting a comment
