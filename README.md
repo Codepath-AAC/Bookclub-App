@@ -119,6 +119,15 @@ Book
 | genre | String | genre of book |
 | rating | int | rating of the book |
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Register Screen
+- Login Screen
+- Search Screen
+- Main Screen
+- Book Screen
+- Profile Screen
+- Favorites Screen
+- Messaging Screen
+- Location Screen
+- Blog Screen
+- Direct Messaging Screen
+- Comments Screen
