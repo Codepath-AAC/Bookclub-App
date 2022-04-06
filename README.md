@@ -120,7 +120,7 @@ Book
 | rating | int | rating of the book |
 ### Networking
 - Register Screen
-   - 
+   - () 
 - Login Screen
 - Search Screen
 - Main Screen
