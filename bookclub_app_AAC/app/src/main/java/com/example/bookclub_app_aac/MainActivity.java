@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity {
         btnBookCover = findViewById(R.id.btnBookCover);
         ivPostBook = findViewById(R.id.ivPostBook);
         btnSubmit = findViewById(R.id.btnSubmit);
+
     }
 }
