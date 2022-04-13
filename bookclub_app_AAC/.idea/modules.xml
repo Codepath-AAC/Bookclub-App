@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bookclub_app_AAC.iml" filepath="$PROJECT_DIR$/.idea/modules/bookclub_app_AAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bookclub_app_AAC.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bookclub_app_AAC.app.iml" />
+    </modules>
+  </component>
+</project>
