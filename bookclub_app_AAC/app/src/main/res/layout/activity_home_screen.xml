@@ -1,0 +1,53 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeScreen">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/trending"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:layout_marginTop="114dp"
+        android:text="Trending Now" />
+
+    <TextView
+        android:id="@+id/rec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/trending"
+        android:layout_marginTop="114dp"
+        android:text="Recommended" />
+
+    <TextView
+        android:id="@+id/genre1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rec"
+        android:layout_marginTop="114dp"
+        android:text="Fantasy" />
+
+    <TextView
+        android:id="@+id/genre2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/genre1"
+        android:layout_marginTop="114dp"
+        android:text="Mystery" />
+
+
+
+</RelativeLayout>

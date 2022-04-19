@@ -6,100 +6,107 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml
+8-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml
+9-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:5:5-79
-11-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:5:22-76
+11-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:5:5-79
+11-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:5:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:6:5-67
-12-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:6:22-64
+12-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:6:22-64
 13
 14    <application
-14-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:7:5-36:19
+14-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:8:5-42:19
 15        android:name="com.example.bookclub_app_aac.ParseApplication"
-15-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:8:9-41
+15-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:9:9-41
 16        android:allowBackup="true"
-16-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:9:9-35
+16-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:10:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.7.0] /home/caitlinm/.gradle/caches/transforms-3/d79cd730aff89e16bbe6bbee05f6ceb1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+17-->[androidx.core:core:1.7.0] /Users/ashleyk/.gradle/caches/transforms-3/d79cd730aff89e16bbe6bbee05f6ceb1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 18        android:debuggable="true"
 19        android:icon="@mipmap/ic_launcher"
-19-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:10:9-43
+19-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:11:9-43
 20        android:label="@string/app_name"
-20-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:11:9-41
+20-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:12:9-41
 21        android:roundIcon="@mipmap/ic_launcher_round"
-21-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:12:9-54
+21-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:13:9-54
 22        android:supportsRtl="true"
-22-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:13:9-35
+22-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:14:9-35
 23        android:testOnly="true"
 24        android:theme="@style/Theme.Bookclub_app_AAC" >
-24-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:14:9-54
-25        <provider
-25-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:15:9-23:20
-26            android:name="androidx.core.content.FileProvider"
-26-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:16:13-62
-27            android:authorities="com.codepath.fileprovider"
-27-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:17:13-60
-28            android:exported="false"
-28-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:18:13-37
-29            android:grantUriPermissions="true" >
-29-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:19:13-47
-30            <meta-data
-30-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:20:13-22:56
-31                android:name="android.support.FILE_PROVIDER_PATHS"
-31-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:21:17-67
-32                android:resource="@xml/fileprovider" />
-32-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:22:17-53
-33        </provider>
-34
-35        <activity
-35-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:24:9-26:40
-36            android:name="com.example.bookclub_app_aac.MainActivity"
-36-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:25:13-41
-37            android:exported="false" />
-37-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:26:13-37
-38        <activity
-38-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:27:9-35:20
-39            android:name="com.example.bookclub_app_aac.LoginActivity"
-39-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:28:13-42
-40            android:exported="true" >
-40-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:29:13-36
-41            <intent-filter>
-41-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:30:13-34:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:31:17-69
-42-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:31:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:33:17-77
-44-->/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/AndroidManifest.xml:33:27-74
-45            </intent-filter>
-46        </activity>
+24-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:15:9-54
+25        <activity
+25-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:16:9-18:40
+26            android:name="com.example.bookclub_app_aac.HomeScreen"
+26-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:17:13-39
+27            android:exported="false" />
+27-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:18:13-37
+28
+29        <provider
+29-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:20:9-28:20
+30            android:name="androidx.core.content.FileProvider"
+30-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:21:13-62
+31            android:authorities="com.codepath.fileprovider"
+31-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:22:13-60
+32            android:exported="false"
+32-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:23:13-37
+33            android:grantUriPermissions="true" >
+33-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:24:13-47
+34            <meta-data
+34-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:25:13-27:56
+35                android:name="android.support.FILE_PROVIDER_PATHS"
+35-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:26:17-67
+36                android:resource="@xml/fileprovider" />
+36-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:27:17-53
+37        </provider>
+38
+39        <activity
+39-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:30:9-32:40
+40            android:name="com.example.bookclub_app_aac.MainActivity"
+40-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:31:13-41
+41            android:exported="false" />
+41-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:32:13-37
+42        <activity
+42-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:33:9-41:20
+43            android:name="com.example.bookclub_app_aac.LoginActivity"
+43-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:34:13-42
+44            android:exported="true" >
+44-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:35:13-36
+45            <intent-filter>
+45-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:36:13-40:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:37:17-69
+46-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:37:25-66
 47
-48        <provider
-48-->[androidx.emoji2:emoji2:1.0.0] /home/caitlinm/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-49            android:name="androidx.startup.InitializationProvider"
-49-->[androidx.emoji2:emoji2:1.0.0] /home/caitlinm/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
-50            android:authorities="com.example.bookclub_app_aac.androidx-startup"
-50-->[androidx.emoji2:emoji2:1.0.0] /home/caitlinm/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
-51            android:exported="false" >
-51-->[androidx.emoji2:emoji2:1.0.0] /home/caitlinm/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
-52            <meta-data
-52-->[androidx.emoji2:emoji2:1.0.0] /home/caitlinm/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-53-->[androidx.emoji2:emoji2:1.0.0] /home/caitlinm/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
-54                android:value="androidx.startup" />
-54-->[androidx.emoji2:emoji2:1.0.0] /home/caitlinm/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
-55            <meta-data
-55-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/caitlinm/.gradle/caches/transforms-3/7c2b991ffee7d4db452bfe70f5605b71/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-56-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/caitlinm/.gradle/caches/transforms-3/7c2b991ffee7d4db452bfe70f5605b71/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-57                android:value="androidx.startup" />
-57-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/caitlinm/.gradle/caches/transforms-3/7c2b991ffee7d4db452bfe70f5605b71/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-58        </provider>
-59    </application>
-60
-61</manifest>
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:39:17-77
+48-->/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/AndroidManifest.xml:39:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.0.0] /Users/ashleyk/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/ashleyk/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+54            android:authorities="com.example.bookclub_app_aac.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/ashleyk/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/ashleyk/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/ashleyk/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.0.0] /Users/ashleyk/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.0.0] /Users/ashleyk/.gradle/caches/transforms-3/7a8fe7a0d27e6111d8f26a88e3f3f946/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashleyk/.gradle/caches/transforms-3/7c2b991ffee7d4db452bfe70f5605b71/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashleyk/.gradle/caches/transforms-3/7c2b991ffee7d4db452bfe70f5605b71/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashleyk/.gradle/caches/transforms-3/7c2b991ffee7d4db452bfe70f5605b71/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+62        </provider>
+63    </application>
+64
+65</manifest>

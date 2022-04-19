@@ -1,70 +1,78 @@
 [
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/layout/activity_login.xml"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/xml_fileprovider.xml.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/xml/fileprovider.xml"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/xml_fileprovider.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/xml/fileprovider.xml"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/caitlinm/Documents/GitHub/codepathAAC/Bookclub-App/bookclub_app_AAC/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/menu_menu_home.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/menu/menu_home.xml"
+    },
+    {
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/layout_activity_home_screen.xml.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashleyk/AndroidStudioProjects/bookclub_app_AAC/bookclub_app_AAC/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     }
 ]

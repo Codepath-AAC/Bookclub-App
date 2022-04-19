@@ -2573,6 +2573,8 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_search
+id action_settings
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2957,6 +2959,7 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolbar
 id top
 id topPanel
 id touch_outside
@@ -3075,6 +3078,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_home_screen
 layout activity_login
 layout activity_main
 layout custom_dialog
@@ -3166,6 +3170,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu example_menu
 menu example_menu2
+menu menu_home
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
