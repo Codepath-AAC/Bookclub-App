@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import androidx.appcompat.widget.SearchView;
+import androidx.appcompat.widget.Toolbar;
 
 public class HomeScreen extends AppCompatActivity
 {
@@ -16,7 +18,8 @@ public class HomeScreen extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home_screen);
-
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
         messages = findViewById(R.id.messagesBtn);
         profile = findViewById(R.id.profileBtn);
         maps = findViewById(R.id.mapsBtn);

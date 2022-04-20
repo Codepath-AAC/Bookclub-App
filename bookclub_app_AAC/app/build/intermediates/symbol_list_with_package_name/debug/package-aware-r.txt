@@ -2502,6 +2502,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable round_button
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2697,6 +2698,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id favoritesBtn
 id fill
 id fill_horizontal
 id fill_vertical
@@ -2708,6 +2710,8 @@ id floating
 id forever
 id fragment_container_view_tag
 id frost
+id genre1
+id genre2
 id ghost_view
 id ghost_view_holder
 id gone
@@ -2740,6 +2744,7 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id ivLogo
 id ivPostBook
 id jumpToEnd
 id jumpToStart
@@ -2753,6 +2758,7 @@ id line3
 id linear
 id listMode
 id list_item
+id mapsBtn
 id masked
 id match_constraint
 id match_parent
@@ -2776,6 +2782,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id message
+id messagesBtn
 id middle
 id mini
 id month_grid
@@ -2847,10 +2854,12 @@ id percent
 id pin
 id position
 id postLayout
+id profileBtn
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id rec
 id rectangles
 id reverseSawtooth
 id right
@@ -2970,6 +2979,7 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id trending
 id triangle
 id unchecked
 id uniform
@@ -3078,9 +3088,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_favorites
 layout activity_home_screen
 layout activity_login
 layout activity_main
+layout activity_maps
+layout activity_messages
+layout activity_profile
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

@@ -23,6 +23,18 @@
         android:testOnly="true"
         android:theme="@style/Theme.Bookclub_app_AAC" >
         <activity
+            android:name="com.example.bookclub_app_aac.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bookclub_app_aac.MapsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bookclub_app_aac.FavoritesActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bookclub_app_aac.MessagesActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.bookclub_app_aac.HomeScreen"
             android:exported="false" />
 
