@@ -48,6 +48,57 @@
         android:layout_marginTop="114dp"
         android:text="Mystery" />
 
+    <Button
+        android:id="@+id/favoritesBtn"
+        android:layout_width="61dp"
+        android:layout_height="61dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="228dp"
+        android:background="@drawable/round_button"
+        android:text="F" />
+
+    <Button
+        android:id="@+id/profileBtn"
+        android:layout_width="61dp"
+        android:layout_height="61dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="160dp"
+        android:background="@drawable/round_button"
+        android:text="P" />
+
+    <Button
+        android:id="@+id/messagesBtn"
+        android:layout_width="61dp"
+        android:layout_height="61dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="91dp"
+        android:background="@drawable/round_button"
+        android:text="M" />
+
+    <Button
+        android:id="@+id/mapsBtn"
+        android:layout_width="61dp"
+        android:layout_height="61dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="26dp"
+        android:background="@drawable/round_button"
+        android:text="Ma" />
+
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="86dp"
+        android:layout_height="99dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginTop="0dp"
+        tools:srcCompat="@tools:sample/avatars" />
 
 
 </RelativeLayout>
